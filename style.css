@@ -28,3 +28,9 @@ a{
 	cursor: pointer;
 }
 
+@media (max-width: 767px){
+	.sub_div{
+		width: auto;
+	}
+}
+
